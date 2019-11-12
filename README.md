@@ -11,16 +11,16 @@ The Qualys Cloud Platform, with its active scanning (Scanner), always-on agents 
 
 AWS |
 ----|
-[AWS_Scanner_CloudFormation](https://github.com/Qualys/add_aws_Scanner) |
+[AWS_Scanner_CloudFormation](https://github.com/Qualys/AWS_Scanner_CloudFormation) |
 2. **Cloud Agent**: A lightweight agent that does continuous assessment of your environment for security and compliance.
 
 AWS | AZURE | Google
 ----| ----- | ------
 [Cloud_Agent_Ansible](https://github.com/Qualys/Cloud_Agent_Ansible) | [Cloud_Agent_Ansible](https://github.com/Qualys/Cloud_Agent_Ansible) | [Cloud_Agent_Ansible](https://github.com/Qualys/Cloud_Agent_Ansible)
-[AWS_Cloud_Agent_SSM](https://github.com/Qualys/deploy_qualys_SSM) | [AZURE_Cloud_Agent_AutomationAccount](https://github.com/Qualys/deploy_qualys_Azure_Automation) |
-[AWS_Cloud_Agent_Bootstrap](https://github.com/Qualys/deploy_qualys_bootstap-AWS) | [CloudAgent-Azure-ARMTemplate](https://github.com/Qualys/CloudAgent-Azure-ARMTemplate)
-[AWS_Cloud_Agent_CodePipeline](https://github.com/Qualys/deploy_qualys_CD_Pipeline_AWS) |
-[AWS_Cloud_Agent_UserdataScripts](https://github.com/Qualys/deploy_qualys_s3)|  
+[AWS_Cloud_Agent_SSM](https://github.com/Qualys/AWS_Cloud_Agent_SSM) | [AZURE_Cloud_Agent_AutomationAccount](https://github.com/Qualys/AZURE_Cloud_Agent_AutomationAccount) |
+[AWS_Cloud_Agent_Bootstrap](https://github.com/Qualys/AWS_Cloud_Agent_Bootstrap) | [CloudAgent-Azure-ARMTemplate](https://github.com/Qualys/CloudAgent-Azure-ARMTemplate)
+[AWS_Cloud_Agent_CodePipeline](https://github.com/Qualys/AWS_Cloud_Agent_CodePipeline) |
+[AWS_Cloud_Agent_UserdataScripts](https://github.com/Qualys/aws_cloud_agent_userdata)|  
 3. **Connector**: The Qualys Connector continuously discovers assets using an API integration. Connectors may be configured to connect to one or more accounts/subscriptions/projects so they can automatically detect and synchronize changes to inventories across your Cloud.
 
 AWS | AZURE | Google
@@ -74,8 +74,7 @@ we would like to thanks the contributors of various scripts under this project.
 * [Mikesh Khanal](https://github.com/mkhanal1)
 * [Sean Nicholson](https://github.com/snicholson-qualys)
 * [Alex Mandernack](https://github.com/amandernackq)
-* [Hari Srinivasan](https://github.com/hsrinivasanqualys)
-* [Vishal Vetal](https://github.com/vvetal)
+
 
 ## License:
 
