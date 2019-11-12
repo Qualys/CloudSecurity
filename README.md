@@ -16,7 +16,7 @@ AWS |
 
 AWS | AZURE | Google
 ----| ----- | ------
-[Cloud_Agent_Ansible](https://github.com/Qualys/deploy_qualys_Ansible) | [Cloud_Agent_Ansible](https://github.com/Qualys/deploy_qualys_Ansible) | [Cloud_Agent_Ansible](https://github.com/Qualys/deploy_qualys_Ansible)
+[Cloud_Agent_Ansible](https://github.com/Qualys/Cloud_Agent_Ansible) | [Cloud_Agent_Ansible](https://github.com/Qualys/Cloud_Agent_Ansible) | [Cloud_Agent_Ansible](https://github.com/Qualys/Cloud_Agent_Ansible)
 [AWS_Cloud_Agent_SSM](https://github.com/Qualys/deploy_qualys_SSM) | [AZURE_Cloud_Agent_AutomationAccount](https://github.com/Qualys/deploy_qualys_Azure_Automation) |
 [AWS_Cloud_Agent_Bootstrap](https://github.com/Qualys/deploy_qualys_bootstap-AWS) | [CloudAgent-Azure-ARMTemplate](https://github.com/Qualys/CloudAgent-Azure-ARMTemplate)
 [AWS_Cloud_Agent_CodePipeline](https://github.com/Qualys/deploy_qualys_CD_Pipeline_AWS) |
