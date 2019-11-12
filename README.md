@@ -69,7 +69,7 @@ SPLUNK | SLACK   |
 * **slack_cloudview_alerts** - This helps you to integrate CloudView Assessment data into Slack for alerting
 
 ## Credits:
-we would like to thanks the contributors of various scripts under this project.
+we would like to thank the contributors of various scripts under this project.
 
 * [Mikesh Khanal](https://github.com/mkhanal1)
 * [Sean Nicholson](https://github.com/snicholson-qualys)
